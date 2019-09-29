@@ -57,7 +57,7 @@ axios({
   method: 'get',
   url: '/base/get?foo=bar',
   params: {
-    bar: 'baz'
+    foo: 'baz'
   }
 })
 
